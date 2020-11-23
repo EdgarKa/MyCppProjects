@@ -1,2 +1,2 @@
 # MyCppProjects
-Here will be some of my C++ apps
+Some of my C++ apps will go here
