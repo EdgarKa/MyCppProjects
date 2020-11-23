@@ -5,14 +5,6 @@
 * Software: Visual Studio 2019
 */
 
-/*
-	Title: Doubly Linked List
-	Author: Podvezko Edgar
-	Date: 202
-	Software: Visual Studio 2017
-*/
-
-
 #include <iostream>
 
 
